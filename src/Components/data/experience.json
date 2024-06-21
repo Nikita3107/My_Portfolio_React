@@ -1,0 +1,17 @@
+[
+    {
+      "id": 443,
+      "role": "Software Development Engineer SDE",
+      "organisation": "It Gurus Software",
+      "startDate": "June, 2022",
+      "endDate": "November, 2023",
+      "location": "Pune",
+      "experiences": [
+        "Worked on HRMS",
+        "Designed and implemented intutive and visually appealing dashboards for employee attendance records.",
+        "Developed a request timeline feature with detailed reasons and status, update, providing a comprehensive  overview of HR process and improving transparency and efficiency.",
+        "Conducted regular maintenance and implemented bug fixes, ensuring platform stability and reliability."
+      ]
+    }
+    
+  ]
